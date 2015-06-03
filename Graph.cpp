@@ -1,9 +1,4 @@
-/* Copyright (c) Hilmi Yildirim 2010,2011.
 
-The software is provided on an as is basis for research purposes.
-There is no additional support offered, nor are the author(s) 
-or their institutions liable under any circumstances.
-*/
 #include "Graph.h"
 
 Graph::Graph() {

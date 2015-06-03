@@ -1,9 +1,4 @@
-/* Copyright (c) Hilmi Yildirim 2010,2011.
 
-The software is provided on an as is basis for research purposes.
-There is no additional support offered, nor are the author(s) 
-or their institutions liable under any circumstances.
-*/
 #include "GraphUtil.h"
 // depth first search given a start node
 void GraphUtil::dfs(Graph& g, int vid, vector<int>& preorder, vector<int>& postorder, vector<bool>& visited) {
