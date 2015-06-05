@@ -1,9 +1,4 @@
-/* Copyright (c) Hilmi Yildirim 2010,2011.
 
-The software is provided on an as is basis for research purposes.
-There is no additional support offered, nor are the author(s) 
-or their institutions liable under any circumstances.
-*/
 #ifndef _GRAPH_H
 #define _GRAPH_H
 
@@ -18,7 +13,7 @@ or their institutions liable under any circumstances.
 #include <algorithm>
 #include <utility>
 #include <cmath>
-#include <ext/hash_map>
+#include <hash_map>
 
 namespace std {using namespace __gnu_cxx;}
 using namespace std;
